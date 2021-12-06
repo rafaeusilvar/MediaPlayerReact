@@ -24,8 +24,7 @@ export default function MultiActionAreaCard() {
               Matuê
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              Lizards are a widespread group of squamate reptiles, with over
-              6,000 species, ranging across all continents except Antarctica
+            Máquina do Tempo é o álbum de estreia do rapper brasileiro Matuê, lançado em 10 de setembro de 2020.
             </Typography>
             <CardActions>
               <Button size="small" color="primary">
@@ -42,16 +41,14 @@ export default function MultiActionAreaCard() {
           <CardMedia
             component="img"
             height="340"
-            image="https://portalpopline.com.br/wp-content/uploads/2021/03/wesley-safadao-2.jpg"
-            alt="green iguana"
+            image="https://i1.sndcdn.com/artworks-dk3ApATnwHlZeosy-ZjwViw-t500x500.jpg"
             />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
-              Wesley
+              Drake
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              Lizards are a widespread group of squamate reptiles, with over
-              6,000 species, ranging across all continents except Antarctica
+            Certified Lover Boy é o sexto álbum de estúdio do rapper canadense Drake, lançado em 3 de setembro de 2021.
             </Typography>
             <CardActions>
               <Button size="small" color="primary">
@@ -76,8 +73,7 @@ export default function MultiActionAreaCard() {
               Travis Scott
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              Lizards are a widespread group of squamate reptiles, with over
-              6,000 species, ranging across all continents except Antarctica
+            JackBoys é um álbum compilação de JackBoys e do rapper americano Travis. JackBoys é um coletivo de rappers. 
             </Typography>
             <CardActions>
               <Button size="small" color="primary">
@@ -102,8 +98,7 @@ export default function MultiActionAreaCard() {
               Vegas
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              Lizards are a widespread group of squamate reptiles, with over
-              6,000 species, ranging across all continents except Antarctica
+            Produto Nacional 04 é uma coletânea de seus mais recentes sons que fazem a cabeça de seus fãs nas festas.
             </Typography>
             <CardActions>
               <Button size="small" color="primary">
