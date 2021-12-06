@@ -8,3 +8,17 @@
 .iframe{
   margin: 2%;
 }
+
+
+@media screen and (max-width:700px){
+.iframe{
+  padding-top: 2%;
+  margin: 2%;
+}
+
+.Cards{
+  padding-top: 50px;
+}
+
+
+}

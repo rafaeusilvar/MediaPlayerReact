@@ -9,8 +9,8 @@ import "./MultiActionAreaCard.css";
 
 export default function MultiActionAreaCard() {
   return (
-    <div className="Cards-00">
-      
+    <div className="Cards-01">    
+    <div className="Cards-00">  
       <Card sx={{ maxWidth: 250 }}>
         <CardActionArea>
           <CardMedia
@@ -35,6 +35,8 @@ export default function MultiActionAreaCard() {
           </CardContent>
         </CardActionArea>
       </Card>
+      </div>
+      <div className="Cards-00">
       <Card sx={{ maxWidth: 250 }}>
         <CardActionArea>
           <CardMedia
@@ -42,7 +44,7 @@ export default function MultiActionAreaCard() {
             height="340"
             image="https://portalpopline.com.br/wp-content/uploads/2021/03/wesley-safadao-2.jpg"
             alt="green iguana"
-          />
+            />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
               Wesley
@@ -59,6 +61,8 @@ export default function MultiActionAreaCard() {
           </CardContent>
         </CardActionArea>
       </Card>
+      </div>
+      <div className="Cards-00">        
       <Card sx={{ maxWidth: 250 }}>
         <CardActionArea>
           <CardMedia
@@ -66,7 +70,7 @@ export default function MultiActionAreaCard() {
             height="340"
             image="https://jpimg.com.br/uploads/2021/11/design-sem-nome-2021-11-07t185339.079-e1636423745951.jpg"
             alt="green iguana"
-          />
+            />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
               Travis Scott
@@ -83,6 +87,8 @@ export default function MultiActionAreaCard() {
           </CardContent>
         </CardActionArea>
       </Card>
+      </div>
+      <div className="Cards-00">        
       <Card sx={{ maxWidth: 250 }}>
         <CardActionArea>
           <CardMedia
@@ -90,7 +96,7 @@ export default function MultiActionAreaCard() {
             height="340"
             image="https://i1.sndcdn.com/artworks-000561063351-neyihe-t500x500.jpg"
             alt="green iguana"
-          />
+            />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
               Vegas
@@ -107,6 +113,8 @@ export default function MultiActionAreaCard() {
           </CardContent>
         </CardActionArea>
       </Card>
+      </div>
+    
     </div>
   );
 }

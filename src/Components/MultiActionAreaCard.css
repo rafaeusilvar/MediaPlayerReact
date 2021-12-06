@@ -1,3 +1,9 @@
+.Cards-01{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
 .Cards-00{
   margin-top: 3%;
   display: flex;
