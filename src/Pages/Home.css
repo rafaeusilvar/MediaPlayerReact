@@ -1,0 +1,7 @@
+.imagem-inicial {
+  background: linear-gradient(rgba(0,0,0.50),rgba(0,0,0,.50)50%), url('https://images.unsplash.com/photo-1501612780327-45045538702b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+  height:650px;
+  margin-top: -20%;
+  background-size:cover;
+  display: flex;
+}
